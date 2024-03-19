@@ -1,24 +1,8 @@
 {
-    "producto":[
+    "usuario":[
         {
-            "id": 1,
-            "Descripcion": "Mouse",
-            "Precio": "30.00"
-        },
-        {
-            "id": 2,
-            "Descripcion": "Mouse",
-            "Precio":"30.00"
-        },
-        {
-            "id": 3,
-            "Descripcion": "Pantalla",
-            "Precio":"30.00"
-        },
-        {
-            "id": 4,
-            "Descripcion": "Memoria RAM",
-            "Precio":"30.00"
+            "User":"fares",
+            "Password":"fares123"
         }
     ]
 }
